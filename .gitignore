@@ -1,0 +1,17 @@
+# Videos
+*.mp4
+*.mov
+*.webm
+*.avi
+*.mkv
+
+# Large files that can be re-downloaded
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Empty placeholder files
